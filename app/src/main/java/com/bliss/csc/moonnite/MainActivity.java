@@ -41,12 +41,12 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        imageView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                calendarView.getRootView().setVisibility(View.VISIBLE);
-            }
-        });
+//        imageView.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                calendarView.getRootView().setVisibility(View.VISIBLE);
+//            }
+//        });
 
 
         // 음력 날짜에 대한 달 사진change
