@@ -48,8 +48,6 @@ public class MainActivity extends AppCompatActivity {
 //            }
 //        });
 
-
-
         // 음력 날짜에 대한 달 사진change
 //       if (title < 12.14){
 //         moonphoto.setImageResource(getDrawable(R.drawable.m6));
